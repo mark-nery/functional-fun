@@ -1,4 +1,5 @@
 #functional look into solving http://projecteuler.net/problem=1
+#outlined here http://mark-nery.github.io/software/2013/07/13/playing-with-functional-javascript/
 
 function isMultipleOf(n) {
   if( _.isArray(n))
